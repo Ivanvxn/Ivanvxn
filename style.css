@@ -1,6 +1,6 @@
 .cat-card-img {
     height: 250px;
-    object-fit: cover; /* Para hindi ma-stretch ang image */
+    object-fit: cover; 
     border-radius: 8px 8px 0 0;
 }
 
@@ -11,7 +11,7 @@
 }
 
 .card:hover {
-    transform: translateY(-5px); /* Animation effect pag tinapat ang mouse */
+    transform: translateY(-5px); 
 }
 
 #refresh-btn {
